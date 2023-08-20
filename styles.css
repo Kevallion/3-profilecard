@@ -76,7 +76,7 @@ body {
   text-align: center;
   position: relative;
   z-index: -2;
-  box-shadow: 19px 20px 20px 0px rgb(0 0 0 / 8%);
+  box-shadow: 1px 20px 20px 20px rgb(0 0 0 / 7%);
 }
 
 .card-container {
